@@ -16,14 +16,16 @@ Implements FFT-based analysis, spectral visualization, and signal reconstruction
 
 ## 💻 Technologies
 - MATLAB / Octave  
-- Signal Processing Toolbox  
+- Signal Processing Toolbox *(optional)*  
 
 ---
 
 ## 📈 Example Output
+
 | Time Domain | Frequency Domain |
 |--------------|------------------|
-| ![Time](images/time_plot.png) | ![Frequency](images/freq_plot.png) |
+| ![Time Domain Signal](plots/time_domain.png) | ![Frequency Spectrum](plots/frequency_spectrum.png) |
+| ![Phase Shift](plots/time_domain_phase_shift.png) | ![Zoomed Spectrum](plots/frequency_zoomed.png) |
 
 ---
 
@@ -32,10 +34,14 @@ Implements FFT-based analysis, spectral visualization, and signal reconstruction
 - Fourier Transform theory  
 - Spectral leakage and windowing  
 - Signal energy and power analysis  
+- Phase relationships and interference  
 
 ---
 
 ## 🪪 License
 Released under the MIT License.  
-**Author:** Gideon Odutayo
-**Repository:** [TimeFrequencyDomainAnalysis](https://github.com/Giddywiddit/TimeFrequencyDomainAnalysis)
+
+**Author:** [Gideon Odutayo](https://www.linkedin.com/in/gideon-odutayo-4486912b2/)  
+**GitHub Repository:** [TimeFrequencyDomainAnalysis](https://github.com/Giddywiddit/TimeFrequencyDomainAnalysis)
+
+---
